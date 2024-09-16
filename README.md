@@ -14,3 +14,24 @@ Es un juego que consiste en adivinar una palabra por eliminación, se usará  un
 Jest - dependencia para realizar pruebas unitarias 
 
 Para instalar se usa el comando __npm install –-save-dev jest__
+
+eslint - 
+
+__npm install eslint –save-dev__
+
+cross-fetch
+
+__npm install --save cross-fetch__
+
+ [Dependencia cross-fetch](https://www.npmjs.com/package/cross-fetch)
+
+Configurar esLint
+
+__npm init @eslint/config__
+
+
+APIS EXTERNAS POSIBLES:
+
+https://rapidapi.com/dpventures/api/wordsapi/
+
+https://clientes.api.greenborn.com.ar/public-random-word?c=1&l=5
